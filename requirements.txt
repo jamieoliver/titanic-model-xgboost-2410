@@ -3,3 +3,4 @@ pandas
 xgboost
 numpy
 graphviz
+huggingface_hub
